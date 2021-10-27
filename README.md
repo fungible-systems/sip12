@@ -17,16 +17,16 @@ Enjoy! Submit any feature requests or bugs in Issues at the top.
 
 Returns all SIP-012 voting data. Same as `getVoteData()` in [`sip12.is`] (https://aithub.com/hstove/sip-12-js)
 
-**[`sip12 js`](https://github.com/hstove/sip-12-js) availability:** ✅ - `Halo.getVoteData()`
+**[`sip12 js`](https://github.com/hstove/sip-12-js) availability:** ✅ - `haloGetVoteData()`
 
 ### [`/btcApprove`](https://sip12.halo.ms/btcApprove)
 
 Returns all approving Bitcoin votes. Same as `getBTCVoteTransactions(true)` in [`sip12.is`](https://github.com/hstove/sip-12-js)
 
-**[`sip12.js`](https://github.com/hstove/sip-12-is) availability:** ✅ - `Halo.getBTCVoteTransactions(true)`
+**[`sip12.js`](https://github.com/hstove/sip-12-is) availability:** ✅ - `haloGetBTCVoteTransactions(true)`
 
 ### [`/btcNoApprove`](https://sip12.halo.ms/btcNoApprove)
 
 Returns all disapproving Bitcoin votes. Same as `getBTCVoteTransactions(false)` in [`sip12.is`](https://github.com/hstove/sip-12-js)
 
-**[`sip12.js`](https://github.com/hstove/sip-12-js) availability:** ✅ - `Halo.getBTCVoteTransactions(false)`
+**[`sip12.js`](https://github.com/hstove/sip-12-js) availability:** ✅ - `haloGetBTCVoteTransactions(false)`
